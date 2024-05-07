@@ -9,6 +9,7 @@
     "react-webpack-boilerplate",
     "react-boilerplate"
   ],
+  "proxy": "http://localhost:3000",
   "license": "MIT",
   "scripts": {
     "dev": "vite",
@@ -54,7 +55,11 @@
   },
   "dependencies": {
     "@ant-design/icons": "^4.6.2",
+    "babel-eslint": "^10.1.0",
+    "eslint-plugin-promise": "^6.1.1",
     "firebase": "^8.4.3",
+    "firebase-admin": "^12.1.0",
+    "firebase-functions": "^5.0.1",
     "formik": "^2.2.6",
     "history": "^4.10.0",
     "moment": "^2.29.1",

@@ -1,16 +1,10 @@
-# Salinaka | E-commerce react app
-Simple ecommerce react js app with firebase [typescript].
-![Firebase Deploy](https://github.com/jgudo/ecommerce-react/workflows/Firebase%20Deploy/badge.svg)
+# TopTop | E-commerce App
+A simple ecommerce react js app with firebase .
 
-### [Live demo](https://salinaka-ecommerce.web.app/)
-
-![Salinaka screenshot](https://raw.githubusercontent.com/jgudo/ecommerce-react/master/static/screeny1.png)
-![Salinaka screenshot](https://raw.githubusercontent.com/jgudo/ecommerce-react/master/static/screeny2.png)
-![Salinaka screenshot](https://raw.githubusercontent.com/jgudo/ecommerce-react/master/static/screeny3.png)
-![Salinaka screenshot](https://raw.githubusercontent.com/jgudo/ecommerce-react/master/static/screeny7.png)
 
 ## Run Locally
 ### 1. Install Dependencies
+
 ```sh
 $ yarn install
 ```
@@ -53,13 +47,4 @@ $ yarn build
 2. Create an account for yourself
 3. Go to your firestore collection `users collection` and edit the account you've just created. Change the role from `USER` to `ADMIN`.
 4. Reload or sigin again to see the changes. 
-
-**Firebase Admin to be integrated soon**
-
-## Features
-
-* Admin CRUD operations
-* Firebase authentication
-* Firebase auth provider authentication
-* Account creation and edit
 
