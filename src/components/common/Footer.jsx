@@ -18,7 +18,7 @@ const Footer = () => {
           <span>
             Developed by
             {' '}
-            <a href="https://github.com/jgudo">JULIUS GUEVARRA</a>
+            <a href="">Samuel Young Anhimiah</a>
           </span>
         </strong>
       </div>
@@ -32,8 +32,8 @@ const Footer = () => {
       <div className="footer-col-3">
         <strong>
           <span>
-            Fork this project &nbsp;
-            <a href="https://github.com/jgudo/ecommerce-react">HERE</a>
+            Made with &nbsp;
+            <a href="">❤❤</a>
           </span>
         </strong>
       </div>

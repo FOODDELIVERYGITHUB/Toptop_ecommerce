@@ -31,7 +31,7 @@
     },
     "products": {
       ".read": true,
-      ".write": false,
+      ".write": "auth !== null",
       "$product_id": {
         "name": {
           ".validate": "newData.isString()"
